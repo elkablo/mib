@@ -1,0 +1,31 @@
+<?
+if ($index->mib!="mib") die ("Access denied");
+echo "<center><font class=\"nadpis\">MEN in BLACK (1997)</font><br><br>";
+echo "<table width=\"100%\" border=\"0\">";
+echo "<tr>";
+echo "<td width=\"20%\">Názov:</td><td width=\"80%\"><a href=\"http://www.imdb.com/title/tt0119654/\" target=\"_new\">Men in Black</a> (Muži v čiernom)</td>";
+echo "</tr>";
+echo "<tr>";
+echo "<td>Réžia:</td><td>Barry Sonnenfeld</td>";
+echo "</tr>";
+echo "<tr>";
+echo "<td valign=\"top\">Obsadenie:</td><td>";
+echo "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">";
+echo "<tr><td width=\"40%\"><a href=\"http://www.imdb.com/name/nm0000169/\" target=\"_new\">Tommy Lee Jones</a></td><td width=\"60%\">- Agent K (Kay)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0000226/\" target=\"_new\">Will Smith</a></td><td>- James Darresl Edwards 3. / Agent J (Jay)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0000400/\" target=\"_new\">Linda Fiorentino</a></td><td>- Dr. Laurel Weaver / Agent L (Elle)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0000352/\" target=\"_new\">Vincent D'Onofrio</a></td><td>- Edgar</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0001800/\" target=\"_new\">Rip Torn</a></td><td>- Agent Z (Zed)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0001724/\" target=\"_new\">Tony Shalhoub</a></td><td>- Jack Jeebs</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0266441/\" target=\"_new\">Siobhan Fallon</a></td><td>- Beatrice, Edgarova manželka</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0638276/\" target=\"_new\">Mike Nussbaum</a></td><td>- Gentle Rosenburg</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0358118/\" target=\"_new\">Richard Hamilton</a></td><td>- Agent D (prvý partner K)</td></tr>";
+echo "</table>";
+echo "</td>";
+echo "</tr>";
+echo "</table><br>";
+echo "<table border=\"0\"><tr><td><a href=\"images/mib1img1.jpg\" target=\"_new\"><img src=\"images/mib1img1_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib1img2.jpg\" target=\"_new\"><img src=\"images/mib1img2_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib1img3.jpg\" target=\"_new\"><img src=\"images/mib1img3_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib1img4.jpg\" target=\"_new\"><img src=\"images/mib1img4_s.jpg\" border=\"0\"></a></td></tr></table></center>";
+?>

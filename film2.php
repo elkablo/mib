@@ -1,0 +1,30 @@
+<?
+if ($index->mib!="mib") die ("Access denied");
+echo "<center><font class=\"nadpis\">MEN in BLACK 2 (2002)</font><br><br>";
+echo "<table width=\"100%\" border=\"0\">";
+echo "<tr>";
+echo "<td width=\"20%\">Názov:</td><td width=\"80%\"><a href=\"http://www.imdb.com/title/tt0120912/\" target=\"_new\">Men in Black 2</a> (Muži v čiernom 2)</td>";
+echo "</tr>";
+echo "<tr>";
+echo "<td>Réžia:</td><td>Barry Sonnenfeld</td>";
+echo "</tr>";
+echo "<tr>";
+echo "<td valign=\"top\">Obsadenie:</td><td>";
+echo "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">";
+echo "<tr><td width=\"40%\"><a href=\"http://www.imdb.com/name/nm0000169/\" target=\"_new\">Tommy Lee Jones</a></td><td width=\"60%\">- Agent K (Kay)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0000226/\" target=\"_new\">Will Smith</a></td><td>- Agent J (Jay)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0001800/\" target=\"_new\">Rip Torn</a></td><td>- Agent Z (Zed)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0001223/\" target=\"_new\">Lara Flynn Boyle</a></td><td>- Serleena</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0206257/\" target=\"_new\">Rosario Dawson</a></td><td>- Laura Vasquez</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0001724/\" target=\"_new\">Tony Shalhoub</a></td><td>- Jack Jeebs</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0638276/\" target=\"_new\">Patrick Warburton</a></td><td>- Agent T (Tee)</td></tr>";
+echo "<tr><td><a href=\"http://www.imdb.com/name/nm0358118/\" target=\"_new\">Richard Hamilton</a></td><td>- Agent D (prvý partner K)</td></tr>";
+echo "</table>";
+echo "</td>";
+echo "</tr>";
+echo "</table><br>";
+echo "<table border=\"0\"><tr><td><a href=\"images/mib2img1.jpg\" target=\"_new\"><img src=\"images/mib2img1_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib2img2.jpg\" target=\"_new\"><img src=\"images/mib2img2_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib2img3.jpg\" target=\"_new\"><img src=\"images/mib2img3_s.jpg\" border=\"0\"></a></td><td>";
+echo "<a href=\"images/mib2img4.jpg\" target=\"_new\"><img src=\"images/mib2img4_s.jpg\" border=\"0\"></a></td></tr></table></center>";
+?>
